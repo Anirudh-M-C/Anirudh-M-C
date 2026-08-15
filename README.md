@@ -1,9 +1,8 @@
 ### 👋 Hi, I'm Anirudh!<br/><br/>
 
 
-👩🏻‍💻 Fresher <br/><br/>
+👩🏻‍💻 jr odoo developer <br/><br/>
 👩🏻‍🎓 Bachelor of Technology in Information Technology Graduate <br/><br/>
-🎨 Currently learning Python Fullstack <br/><br/>
 📫 How to reach me [anirudhm394@gmail.com](anirudhm394@gmail.com) <br/><br/>
 🧩[linkedin](https://www.linkedin.com/in/anirudh-m-9869b9248/) / [website](https://main--anirudhm.netlify.app/) (personal)
 
