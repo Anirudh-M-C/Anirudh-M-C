@@ -1,26 +1,42 @@
-### 👋 Hi, I'm Anirudh!<br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:714B67,100:3776AB&height=180&section=header&text=Anirudh%20M&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Junior%20Odoo%20Developer&descSize=18&descAlignY=60" alt="Anirudh M header" />
 
+<div align="center">
 
-👩🏻‍💻 jr odoo developer <br/><br/>
-👩🏻‍🎓 Bachelor of Technology in Information Technology Graduate <br/><br/>
-📫 How to reach me [anirudhm394@gmail.com](anirudhm394@gmail.com) <br/><br/>
-🧩[linkedin](https://www.linkedin.com/in/anirudh-m-9869b9248/) / [website](https://main--anirudhm.netlify.app/) (personal)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anirudh-M-C&show_icons=true&locale=en" alt="j" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh-m-c&label=profile%20views&color=dedede&style=flat-square" alt="anirudh-m-c" /> </p>
-
-
-##  Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anirudh_main_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudh-m-9869b9248) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anirudhmain) 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://www.odoo.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/odoo/odoo-original.svg"
-       alt="odoo" width="40" height="40"/>
+<a href="https://github.com/Anirudh-M-C">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=A06BA5&center=true&vCenter=true&width=520&lines=Junior+Odoo+Developer;Python+%7C+Django+%7C+React;B.Tech+in+Information+Technology" alt="Typing intro" />
 </a>
- </p>
 
+<br/>
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhm394@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-m-9869b9248/)
+[![Website](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://main--anirudhm.netlify.app/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anirudhmain)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anirudh_main_)
 
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I'm an Information Technology graduate working as a junior Odoo developer. I build business modules with Odoo and Python, and web interfaces with React and Django.
+
+## Tech Stack
+
+<div align="center">
+
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=python,django,postgres,js,react,html,css,bootstrap,git&perline=9" alt="Tech stack icons" />
+
+</div>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anirudh-M-C&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh-M-C&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:714B67,100:3776AB&height=100&section=footer" alt="footer" />
